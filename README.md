@@ -101,3 +101,7 @@ Compressed string: a3b2c1a3
 
 **Conclusion**:
 This Run-Length Encoding program demonstrates how simple logic can achieve meaningful data compression. It introduces the concept of reducing data size without losing information — a fundamental requirement in many applications like file storage, image encoding, and data transmission. The program is concise, easy to understand, and provides a great foundation for exploring more complex compression algorithms in the future, such as Huffman Coding or LZW.
+
+**OUTPUT**:
+
+![Image](https://github.com/user-attachments/assets/521ea689-2f77-432c-bb4a-a92ffdb8445e)
